@@ -2,6 +2,7 @@
 
 # Script for backup list of tables given for single database
 # Author: Surya
+# Make sure run this script using root
 
 # Usage Function
 usage() {
